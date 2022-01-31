@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niranjan-Siva
+- 👋 Hi, I’m @Niranjan
 - 👀 I’m interested in Coding, mainly coding
 - 🌱 I’m currently learning Python and .net
 
